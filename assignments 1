@@ -1,6 +1,6 @@
 import java.io.*;
 
-class task1
+class sample1
   {
    public static void main(String []args)
  {
